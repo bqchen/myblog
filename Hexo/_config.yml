@@ -12,10 +12,10 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://bqchen.github.com/
-#url: https://118.25.41.191:8088
-root: /bqchen.github.io
-#root: /118.25.41.191:8088/
+#url: https://bqchen.github.com/
+url: https://118.25.41.191:8088
+#root: /bqchen.github.io
+root: /118.25.41.191:8088/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
